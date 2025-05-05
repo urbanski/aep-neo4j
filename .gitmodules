@@ -1,0 +1,3 @@
+[submodule "aep"]
+	path = aep
+	url = https://github.com/mnemonic-no/aep
